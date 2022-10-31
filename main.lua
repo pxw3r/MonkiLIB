@@ -1,7 +1,7 @@
 local Release = "Monki-Ware 2.5"
 local NotificationDuration = 6.5
 local ConfigurationFolder = "Monki Squad"
-local ConfigurationExtension = ".rfld"
+local ConfigurationExtension = ".ms"
 
 
 
