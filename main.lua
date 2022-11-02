@@ -721,7 +721,7 @@ function MonkiLibrary:CreateWindow(Settings)
 	LoadingFrame.Title.Text = Settings.LoadingTitle or "Monki Interface Suite"
 	LoadingFrame.Subtitle.Text = Settings.LoadingSubtitle or "by Sirius"
 	if Settings.LoadingTitle then
-		LoadingFrame.Version.Text = "Monki-Ware 2.5.1"
+		LoadingFrame.Version.Text = "Powered by Monki-Ware 1.0"
 	end
 	Topbar.Visible = false
 	Elements.Visible = false
