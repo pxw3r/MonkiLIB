@@ -1,4 +1,4 @@
-local Release = "Monki Ware 1.0 BETA"
+local Release = "Monki Ware (Build 2209)"
 local NotificationDuration = 6.5
 local ConfigurationFolder = "Monki Squad"
 local ConfigurationExtension = ".ms"
